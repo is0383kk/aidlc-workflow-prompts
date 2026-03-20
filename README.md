@@ -1,3 +1,12 @@
+<table>
+  <thead>
+      <tr>
+          <th style="text-align:center">English</th>
+          <th style="text-align:center"><a href="./README_ja.md">日本語</a></th>
+      </tr>
+    </thead>
+</table>
+
 # AI-Driven Development Lifecycle (AI-DLC) Prompts
 
 This repository contains prompts for product development following the "[AI-Driven Development Lifecycle (AI-DLC)](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)" process proposed by Amazon Web Services.
